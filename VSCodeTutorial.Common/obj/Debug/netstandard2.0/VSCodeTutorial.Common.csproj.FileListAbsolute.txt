@@ -1,0 +1,8 @@
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.Common\bin\Debug\netstandard2.0\VSCodeTutorial.Common.deps.json
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.Common\bin\Debug\netstandard2.0\VSCodeTutorial.Common.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.Common\bin\Debug\netstandard2.0\VSCodeTutorial.Common.pdb
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.Common\obj\Debug\netstandard2.0\VSCodeTutorial.Common.csproj.CoreCompileInputs.cache
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.Common\obj\Debug\netstandard2.0\VSCodeTutorial.Common.AssemblyInfoInputs.cache
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.Common\obj\Debug\netstandard2.0\VSCodeTutorial.Common.AssemblyInfo.cs
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.Common\obj\Debug\netstandard2.0\VSCodeTutorial.Common.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.Common\obj\Debug\netstandard2.0\VSCodeTutorial.Common.pdb

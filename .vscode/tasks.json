@@ -1,0 +1,26 @@
+{
+    "version": "0.1.0",
+    "command": "dotnet",//全局命令，即所有的任务都使用这个命令，也可以在各个任务中设置
+    "isShellCommand": true,
+    "args": [],
+    "tasks": [
+        {
+            "taskName": "build",//任务名称 当设置了主的command 之后这个taskName也会作为一个命令参数
+            "args": [
+                "${workspaceRoot}/VSCodeTutorial.ConsoleApp/VSCodeTutorial.ConsoleApp.csproj"
+            ],
+            "isBuildCommand": true, //一个解决方案只能设置一个编译任务，多设置了也是白搭，当然也能执行，只是不能利用快捷方式运行了
+            "problemMatcher": "$msCompile"//C#项目的problemMatcher
+        },
+        {
+            "taskName": "UnitTest",
+            //"command":"dotnet",
+            "args": [
+                "test",//组成dotnet test 命令
+                "${workspaceRoot}\\VSCodeTutorial.UnitTest\\VSCodeTutorial.UnitTest.csproj"
+            ],
+            "isTestCommand": true,//设置为单元测试项目
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\bin\Debug\netcoreapp2.0\VSCodeTutorial.ConsoleApp.deps.json
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\bin\Debug\netcoreapp2.0\VSCodeTutorial.ConsoleApp.runtimeconfig.json
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\bin\Debug\netcoreapp2.0\VSCodeTutorial.ConsoleApp.runtimeconfig.dev.json
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\bin\Debug\netcoreapp2.0\VSCodeTutorial.ConsoleApp.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\bin\Debug\netcoreapp2.0\VSCodeTutorial.ConsoleApp.pdb
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\bin\Debug\netcoreapp2.0\VSCodeTutorial.Common.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\bin\Debug\netcoreapp2.0\VSCodeTutorial.Common.pdb
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\obj\Debug\netcoreapp2.0\VSCodeTutorial.ConsoleApp.csproj.CoreCompileInputs.cache
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\obj\Debug\netcoreapp2.0\VSCodeTutorial.ConsoleApp.AssemblyInfoInputs.cache
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\obj\Debug\netcoreapp2.0\VSCodeTutorial.ConsoleApp.AssemblyInfo.cs
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\obj\Debug\netcoreapp2.0\VSCodeTutorial.ConsoleApp.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.ConsoleApp\obj\Debug\netcoreapp2.0\VSCodeTutorial.ConsoleApp.pdb

@@ -1,0 +1,15 @@
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\bin\Debug\netcoreapp2.0\VSCodeTutorial.UnitTest.deps.json
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\bin\Debug\netcoreapp2.0\VSCodeTutorial.UnitTest.runtimeconfig.json
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\bin\Debug\netcoreapp2.0\VSCodeTutorial.UnitTest.runtimeconfig.dev.json
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\bin\Debug\netcoreapp2.0\VSCodeTutorial.UnitTest.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\bin\Debug\netcoreapp2.0\VSCodeTutorial.UnitTest.pdb
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\bin\Debug\netcoreapp2.0\VSCodeTutorial.Common.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\bin\Debug\netcoreapp2.0\VSCodeTutorial.Common.pdb
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\obj\Debug\netcoreapp2.0\VSCodeTutorial.UnitTest.csproj.CoreCompileInputs.cache
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\obj\Debug\netcoreapp2.0\VSCodeTutorial.UnitTest.AssemblyInfoInputs.cache
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\obj\Debug\netcoreapp2.0\VSCodeTutorial.UnitTest.AssemblyInfo.cs
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\obj\Debug\netcoreapp2.0\VSCodeTutorial.UnitTest.dll
+K:\dev\dotnetcore\vscode_t\VSCodeTutorial.UnitTest\obj\Debug\netcoreapp2.0\VSCodeTutorial.UnitTest.pdb
